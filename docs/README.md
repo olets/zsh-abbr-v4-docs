@@ -1,4 +1,4 @@
-# zsh-abbr ![Legacy release 4.x](https://img.shields.io/badge/legacy%20release-4.x-A20707) 
+# zsh-abbr ![Legacy release 4.x](https://img.shields.io/github/v/release/olets/zsh-abbr?filter=v4.*&label=legacy%20release&color=A20707) 
 
 :::tip
 These are the v4 docs. For v5 docs see <https://zsh-abbr.olets.dev>
