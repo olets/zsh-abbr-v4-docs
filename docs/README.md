@@ -1,7 +1,7 @@
 # zsh-abbr ![Legacy release 4.x](https://img.shields.io/github/v/release/olets/zsh-abbr?filter=v4.*&label=legacy%20release&color=A20707) 
 
 :::tip
-These are the v4 docs. For v5 docs see <https://zsh-abbr.olets.dev>
+These are the legacy v4 docs. For other versions, use the links in the header dropdown.
 :::
 
 **zsh-abbr** is the zsh manager for auto-expanding abbreviations - text that when written in a terminal is replaced with other (typically longer) text. Inspired by fish shell.

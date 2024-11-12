@@ -6,7 +6,7 @@ next: /scopes.md
 # Reference
 
 :::tip
-These are the v4 docs. For v5 docs see <https://zsh-abbr.olets.dev>
+These are the legacy v4 docs. For other versions, use the links in the header dropdown.
 :::
 
 [[toc]]

@@ -5,7 +5,7 @@ next: /contributing.md
 # Performance
 
 :::tip
-These are the v4 docs. For v5 docs see <https://zsh-abbr.olets.dev>
+These are the legacy v4 docs. For other versions, use the links in the header dropdown.
 :::
 
 zsh-abbr adds roughly 20ms + 1.6ms/abbreviation to first prompt lag, 24ms + 1.6ms/abbreviation to first command lag, and 20ms + 1.6ms/abbreviation to exit time.
